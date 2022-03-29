@@ -1,0 +1,6 @@
+Credentials cache: API:C5A2244C-7EDF-4F5C-BD41-981588AC971F
+        Principal: fkaya@42KOCAELI.COM.TR
+
+  Issued                Expires             Flags    Principal
+Oct  5 22:56:40 2021  Oct  6 08:56:40 2021  FPRIA  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Oct  5 22:56:42 2021  Oct  6 08:56:40 2021  FPA    HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
